@@ -1,0 +1,7 @@
+{
+  "name": "B&W DJ STUDIO",
+  "description": "A professional-grade virtual DJ studio with dual decks, integrated mixer, real-time waveform visualization, and an AI-powered transition assistant powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
